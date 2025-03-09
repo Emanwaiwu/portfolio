@@ -5,7 +5,7 @@ import Services from "./components/Services";
 import Portfolio from "./components/Portfolio";
 import About from "./components/About";
 import Contact from "./components/Contact";
-import { ReactLenis, useLenis } from 'lenis/react'
+import { ReactLenis, useLenis } from 'lenis/react';
 
 function App() {
   const lenis = useLenis(({ scroll }) => {
