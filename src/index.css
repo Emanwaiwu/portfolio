@@ -3,9 +3,9 @@
 @font-face {
   font-family: "Monoska";
   src:
-    url("/assets/fonts/Monoska.woff2") format("woff2"),
-    url("/assets/fonts/Monoska.woff") format("woff"),
-    url("/assets/fonts/Monoska.ttf") format("truetype");
+    url("/fonts/Monoska.woff2") format("woff2"),
+    url("/fonts/Monoska.woff") format("woff"),
+    url("/fonts/Monoska.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -13,19 +13,19 @@
 @font-face {
   font-family: "Uncut Sans";
   src:
-    url("/assets/fonts/UncutSans-Book.woff2") format("woff2"),
-    url("/assets/fonts/UncutSans-Book.woff") format("woff"),
-    url("/assets/fonts/UncutSans-Book.otf") format("opentype");
-  font-weight: light;
+    url("/fonts/UncutSans-Book.woff2") format("woff2"),
+    url("/fonts/UncutSans-Book.woff") format("woff"),
+    url("/fonts/UncutSans-Book.otf") format("opentype");
+  font-weight: 300; /* Corrected */
   font-style: normal;
 }
 
 @font-face {
   font-family: "Uncut Sans";
   src:
-    url("/assets/fonts/UncutSans-Regular.woff2") format("woff2"),
-    url("/assets/fonts/UncutSans-Regular.woff") format("woff"),
-    url("/assets/fonts/UncutSans-Regular.otf") format("opentype");
+    url("/fonts/UncutSans-Regular.woff2") format("woff2"),
+    url("/fonts/UncutSans-Regular.woff") format("woff"),
+    url("/fonts/UncutSans-Regular.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
@@ -33,10 +33,10 @@
 @font-face {
   font-family: "Uncut Sans";
   src:
-    url("/assets/fonts/UncutSans-Medium.woff2") format("woff2"),
-    url("/assets/fonts/UncutSans-Medium.woff") format("woff"),
-    url("/assets/fonts/UncutSans-Medium.otf") format("opentype");
-  font-weight: medium;
+    url("/fonts/UncutSans-Medium.woff2") format("woff2"),
+    url("/fonts/UncutSans-Medium.woff") format("woff"),
+    url("/fonts/UncutSans-Medium.otf") format("opentype");
+  font-weight: 500; /* Corrected */
   font-style: normal;
 }
 
