@@ -16,7 +16,7 @@
     url("/fonts/Uncut Sans v1.3.4/Webfonts/UncutSans-Book.woff2") format("woff2"),
     url("/fonts/Uncut Sans v1.3.4/Webfonts/UncutSans-Book.woff") format("woff"),
     url("/fonts/Uncut Sans v1.3.4/Static/UncutSans-Book.otf") format("opentype");
-  font-weight: 300; /* Corrected */
+  font-weight: 300; 
   font-style: normal;
 }
 
@@ -36,7 +36,7 @@
     url("/fonts/Uncut Sans v1.3.4/Webfonts/UncutSans-Medium.woff2") format("woff2"),
     url("/fonts/Uncut Sans v1.3.4/Webfonts/UncutSans-Medium.woff") format("woff"),
     url("/fonts/Uncut Sans v1.3.4/Static/UncutSans-Medium.otf") format("opentype");
-  font-weight: 500; /* Corrected */
+  font-weight: 500; 
   font-style: normal;
 }
 
