@@ -16,7 +16,7 @@ const Navbar = () => {
           </div>
           <h1 className="font-logo text-[20px] flex items-center">[Eman]</h1>
           <div className="w-[120px] h-[35px] sm:w-[100px] sm:h-[30px]"></div>
-          <div className="fixed right-10 sm:right-3 top-6 sm:invisible">
+          <div className="fixed right-10 sm:right-3 top-5">
           <a href="https://calendly.com/eman-designs/15min-discovery" target="_blank" rel="noopener noreferrer">
             <button className="relative overflow-hidden rounded-[10px] bg-white w-[120px] h-[35px] sm:w-[100px] sm:h-[30px] group fadein">
               <span className="absolute top-full h-[200%] w-[150%] -translate-x-1/2 bg-blue rounded-t-full transition-all duration-700 ease-out group-hover:top-[-10px]" />

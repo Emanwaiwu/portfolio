@@ -6,7 +6,7 @@ const repeatSpace = (space = 20) => Array(space).fill("\u00A0").join("");
 const Portfolio = () => {
   return (
     <section
-      className="px-10 smm:px-10 sm:px-5 sm:mt-10 smm:mt-24 h-full pt-24"
+      className="px-10 smm:px-10 sm:px-5 sm:mt-24 h-full pt-24"
       id="portfolio"
     >
       <div className="h-fit">

@@ -34,7 +34,7 @@ const Hero = () => {
           <img
             src={man}
             alt=""
-            className="rounded-[10px] sm:w-[150px] w-[250px]"
+            className="rounded-[10px] sm:w-[180px] w-[250px]"
           />
         </div>
         <div className="flex-col flex items-center justify-center sm:mt-4 gap-1 sm:order-2">

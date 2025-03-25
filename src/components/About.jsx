@@ -5,7 +5,7 @@ import { about_img, hero_img } from "../utils";
 const About = () => {
   return (
     <section
-      className="px-10 mt-80 sm:px-5 smm:px-10 smm:mt-32 sm:mt-0 h-[80vh] pt-24"
+      className="px-10 mt-80 sm:px-5 smm:px-10 smm:mt-32 sm:mt-28 h-[80vh] pt-24"
       id="about"
     >
       <header>
@@ -28,7 +28,7 @@ const About = () => {
           <img
             src={hero_img}
             alt=""
-            className="w-[201px] h-[300px] md:h-[230px] object-cover rounded-[10px] sm:w-[150px] sm:h-[170px]"
+            className="w-[201px] h-[300px] md:h-[230px] object-cover rounded-[10px] sm:w-[180px] sm:h-[170px]"
           />
         </div>
       </div>

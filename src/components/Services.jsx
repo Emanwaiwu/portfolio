@@ -5,7 +5,7 @@ import { blackstar } from "../utils";
 const repeatSpace = (space = 20) => Array(space).fill("\u00A0").join("");
 const Services = () => {
   return (
-    <section className="px-10 smm:px-10 sm:px-5 sm:mt-10 h-screen sm:h-full pt-24" id="services">
+    <section className="px-10 smm:px-10 sm:px-5 h-screen sm:h-full" id="services">
       <header>
         <h1 className="sm:text-[1.3rem] text-[2.3rem] md:text-[1.7rem]">
           <span className="font-logo">H</span>ere’s what I can do for you
