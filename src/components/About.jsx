@@ -15,7 +15,7 @@ const About = () => {
       </header>
       <div className="flex smm:flex-row sm:flex-col gap-40 xl:gap-60 md:gap-20 smm:gap-8 sm:gap-2 sm:mt-10 mt-28 justify-center">
         <div className="max-w-[300px] smm:w-[250px] sm:mx-auto smm:mx-0">
-          <p className="text-balan md:text-[12px] text-[14px] sm:text-[12px]">
+          <p className="md:text-[12px] text-[14px] sm:text-[12px]">
             I've been driven by a passion for design and a desire to make a
             positive impact since I was young. Today, I help businesses thrive
             by curating exceptional designs that bring value to others. <br />{" "}
@@ -26,7 +26,7 @@ const About = () => {
         </div>
         <div className="sm:mx-auto smm:mx-0 sm:mt-10 smm:mt-0">
           <img
-            src={hero_img}
+            src={about_img}
             alt=""
             className="w-[201px] h-[300px] md:h-[230px] object-cover rounded-[10px] sm:w-[180px] sm:h-[170px]"
           />

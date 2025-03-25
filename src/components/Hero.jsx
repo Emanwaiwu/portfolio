@@ -32,7 +32,7 @@ const Hero = () => {
         </div>
         <div className="flex justify-center sm:my-8 sm:order-3">
           <img
-            src={`${man}?force=true`}
+            src={hero_img}
             alt=""
             className="rounded-[10px] sm:w-[180px] w-[250px]"
           />
