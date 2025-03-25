@@ -3,9 +3,9 @@
 @font-face {
   font-family: "Monoska";
   src:
-    url("public/fonts/Monoska Font/Monoska.woff2") format("woff2"),
-    url("public/fonts/Monoska Font/Monoska.woff") format("woff"),
-    url("public/fonts/Monoska Font/Monoska.ttf") format("truetype");
+    url("/fonts/Monoska Font/Monoska.woff2") format("woff2"),
+    url("/fonts/Monoska Font/Monoska.woff") format("woff"),
+    url("/fonts/Monoska Font/Monoska.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
