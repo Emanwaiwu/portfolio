@@ -9,7 +9,7 @@ const Hero = () => {
     fadeIn(titleRef.current);
   }, []);
   return (
-    <section className="sm:mt-20">
+    <section>
       <header className="inset-0 flex items-center justify-center z-0">
         <div className="text-center overflow-hidden">
           <p className="font-sub tracking-[-0.7px] text-[15px] xl:text-[18px] lg:text-[18px]">
