@@ -1,0 +1,14 @@
+{
+    "headers": [
+      {
+        "source": "/fonts/:all",
+        "headers": [
+          {
+            "key": "Content-Type",
+            "value": "font/woff2"
+          }
+        ]
+      }
+    ]
+  }
+  
