@@ -13,9 +13,9 @@
 @font-face {
   font-family: "Uncut Sans";
   src:
-    url("/fonts/UncutSans-Book.woff2") format("woff2"),
-    url("/fonts/UncutSans-Book.woff") format("woff"),
-    url("/fonts/UncutSans-Book.otf") format("opentype");
+    url("/fonts/Uncut Sans v1.3.4/Webfonts/UncutSans-Book.woff2") format("woff2"),
+    url("/fonts/Uncut Sans v1.3.4/Webfonts/UncutSans-Book.woff") format("woff"),
+    url("/fonts/Uncut Sans v1.3.4/Static/UncutSans-Book.otf") format("opentype");
   font-weight: 300; /* Corrected */
   font-style: normal;
 }
@@ -23,9 +23,9 @@
 @font-face {
   font-family: "Uncut Sans";
   src:
-    url("/fonts/UncutSans-Regular.woff2") format("woff2"),
-    url("/fonts/UncutSans-Regular.woff") format("woff"),
-    url("/fonts/UncutSans-Regular.otf") format("opentype");
+    url("/fonts/Uncut Sans v1.3.4/Webfonts/UncutSans-Regular.woff2") format("woff2"),
+    url("/fonts/Uncut Sans v1.3.4/Webfonts/UncutSans-Regular.woff") format("woff"),
+    url("/fonts/Uncut Sans v1.3.4/Static/UncutSans-Regular.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
@@ -33,9 +33,9 @@
 @font-face {
   font-family: "Uncut Sans";
   src:
-    url("/fonts/UncutSans-Medium.woff2") format("woff2"),
-    url("/fonts/UncutSans-Medium.woff") format("woff"),
-    url("/fonts/UncutSans-Medium.otf") format("opentype");
+    url("/fonts/Uncut Sans v1.3.4/Webfonts/UncutSans-Medium.woff2") format("woff2"),
+    url("/fonts/Uncut Sans v1.3.4/Webfonts/UncutSans-Medium.woff") format("woff"),
+    url("/fonts/Uncut Sans v1.3.4/Static/UncutSans-Medium.otf") format("opentype");
   font-weight: 500; /* Corrected */
   font-style: normal;
 }
