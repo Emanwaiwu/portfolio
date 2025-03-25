@@ -4,10 +4,10 @@ import { smiling, whitestar } from "../utils";
 const Contact = () => {
   return (
     <section
-      className="px-10 sm:px-5 smm:px-10 h-screen sm:h-[65vh] sm:my-8"
+      className="px-10 sm:px-5 smm:px-10 h-screen sm:h-[80vh] sm:my-8"
       id="contact"
     >
-      <div className="flex justify-center sm:items-start items-center h-full">
+      <div className="flex justify-center items-center h-full">
         <div className="rounded-[10px] h-fit sm:w-[500px] w-[600px] bg-dark_grey pt-24 pb-8 sm:px-4 grain">
           <div className="flex flex-col items-center h-full justify-center">
             <div>
