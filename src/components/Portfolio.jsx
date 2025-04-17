@@ -30,7 +30,7 @@ const Portfolio = () => {
             <div className="flex justify-between mt-4">
               <div className="flex-col cursor-default">
                 <p className="text-[10px] font-light text-text_grey">
-                  Architechture & engineering
+                  Architechture & Engineering
                 </p>
                 <p className="text-[12px] font-medium">ESSENTIA ENGINEERING</p>
               </div>
@@ -55,15 +55,15 @@ const Portfolio = () => {
             <p className="text-[20px] sticky top-60 cursor-default">[02]</p>
           </div>
           <div className="w-[520px] h-[324px] sm:max-w-[500px]">
-          <a href="thehive-amber.vercel.app" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.figma.com/proto/4WB83Vv4cDGzCuPuK43zaT/Untitled?page-id=0%3A1&node-id=170-5&p=f&viewport=-207%2C220%2C0.08&t=BuaGLiT7jBeqH36S-1&scaling=min-zoom&content-scaling=fixed" target="_blank" rel="noopener noreferrer">
             <img src={proj2} alt="" className="rounded-[10px]" />
           </a>
             <div className="flex justify-between mt-4">
               <div className="flex-col cursor-default">
                 <p className="text-[10px] font-light text-text_grey">
-                  Arts & Crafts 
+                  Marketing, Fashion & more..
                 </p>
-                <p className="text-[12px] font-medium">THE HIVE</p>
+                <p className="text-[12px] font-medium">FIGMA</p>
               </div>
               <div className="flex gap-2 items-end sm:flex-col cursor-default">
                 {" "}
@@ -72,9 +72,6 @@ const Portfolio = () => {
                 </div>
                 <div className="bg-light_grey px-3 py-1 text-[10px] rounded-[50px]">
                   <p>Web Design</p>
-                </div>
-                <div className="bg-light_grey px-3 py-1 text-[10px] rounded-[50px]">
-                  <p>Web Development</p>
                 </div>
               </div>
             </div>
