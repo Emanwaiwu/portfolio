@@ -61,7 +61,7 @@ const Contact = () => {
                     <img src={whitestar} alt="" className="w-[10px] h-[10px]" />
                   </span>
                   <span className="transition-all duration-100">
-                    <a href="mailto:28emmanueln@gmail.com">28emmanueln@gmail.com</a>
+                    <a href="mailto:eman.designs@outlook.com">eman.designs@outlook.com</a>
                   </span>
                 </p>
             </div>
